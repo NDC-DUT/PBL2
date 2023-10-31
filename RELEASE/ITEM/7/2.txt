@@ -1,0 +1,80 @@
+10005755 Bơ thực vật Meizan hộp 200g
+10005755 bo thuc vat meizan hop 200g
+10005755 bơ thực vật meizan hộp 200g
+1
+hộp
+9900 17900 16600 166
+0 0
+
+10005891 Bơ thực vật Tường An hộp 80g
+10005891 bo thuc vat tuong an hop 80g
+10005891 bơ thực vật tường an hộp 80g
+1
+hộp
+5900 10700 10700 24
+0 0
+
+10007264 Thịt xay Halong Canfoco hộp 170g
+10007264 thit xay halong canfoco hop 170g
+10007264 thịt xay halong canfoco hộp 170g
+1
+hộp
+23200 32100 32100 289
+0 0
+
+10007266 Pate gan hộp Halong Canfoco hộp 170g
+10007266 pate gan hop halong canfoco hop 170g
+10007266 pate gan hộp halong canfoco hộp 170g
+1
+hộp
+23100 32900 32900 24
+0 0
+
+10007274 Cá ngừ ngâm dầu Hạ Long Canfoco hộp 175g
+10007274 ca ngu ngam dau ha long canfoco hop 175g
+10007274 cá ngừ ngâm dầu hạ long canfoco hộp 175g
+1
+hộp
+29900 45700 38100 256
+0 0
+
+10007276 Cà pháo dầm tôm Trung Thành lọ 410g
+10007276 ca phao dam tom trung thanh lo 410g
+10007276 cà pháo dầm tôm trung thành lọ 410g
+1
+lọ
+42300 55100 55100 290
+0 0
+
+10007278 Dưa bao tử Trung Thành lọ 500g
+10007278 dua bao tu trung thanh lo 500g
+10007278 dưa bao tử trung thành lọ 500g
+1
+lọ
+12500 20600 20600 239
+0 0
+
+10007280 Măng dầm ớt Trung Thành lọ 800g
+10007280 mang dam ot trung thanh lo 800g
+10007280 măng dầm ớt trung thành lọ 800g
+1
+lọ
+24500 35600 35600 123
+0 0
+
+10007356 Bò hầm Vissan hộp 150g
+10007356 bo ham vissan hop 150g
+10007356 bò hầm vissan hộp 150g
+1
+hộp
+27400 42000 38600 243
+0 0
+
+10007367 Cá ngừ ngâm dầu Seaspimex hộp 185g
+10007367 ca ngu ngam dau seaspimex hop 185g
+10007367 cá ngừ ngâm dầu seaspimex hộp 185g
+1
+hộp
+22500 30000 30000 290
+0 0
+

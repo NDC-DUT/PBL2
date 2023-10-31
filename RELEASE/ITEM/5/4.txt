@@ -1,0 +1,96 @@
+10006456 Lẩu Thái SGFood Việt Nam 500g
+10006456 lau thai sgfood viet nam 500g
+10006456 lẩu thái sgfood việt nam 500g
+1
+khay
+55000 84500 84500 99
+0 0
+
+10006482 Que Surimi Kani Supreme hương cua gói 250g
+10006482 que surimi kani supreme huong cua goi 250g
+10006482 que surimi kani supreme hương cua gói 250g
+1
+gói
+59000 91500 91500 11
+0 0
+
+10006483 Que surimi Kani Fresh hương cua gói 250g
+10006483 que surimi kani fresh huong cua goi 250g
+10006483 que surimi kani fresh hương cua gói 250g
+1
+gói
+53900 81700 81700 12
+0 0
+
+10006542 Nem tôm cua Đôi Đũa Vàng gói 480g
+10006542 nem tom cua doi dua vang goi 480g
+10006542 nem tôm cua đôi đũa vàng gói 480g
+1
+gói
+58000 72800 72800 190
+0 0
+
+10006557 Há cảo Thực Phẩm Cầu Tre gói 500g
+10006557 ha cao thuc pham cau tre goi 500g
+10006557 há cảo thực phẩm cầu tre gói 500g
+1
+gói
+37000 58200 58200 199
+0 0
+
+10006558 Há cảo tôm cua Thực Phẩm Cầu Tre gói 500g
+10006558 ha cao tom cua thuc pham cau tre goi 500g
+10006558 há cảo tôm cua thực phẩm cầu tre gói 500g
+1
+gói
+57000 80500 80500 199
+0 0
+
+10006637 Nước lẩu nấm Icook Ashima gói 1L
+10006637 nuoc lau nam icook ashima goi 1l
+10006637 nước lẩu nấm icook ashima gói 1l
+1
+gói
+100000 124700 124700 20
+0 0
+
+10006880 Phô mai que Đôi Đũa Vàng khay 300g
+10006880 pho mai que doi dua vang khay 300g
+10006880 phô mai que đôi đũa vàng khay 300g
+1
+khay
+80000 105000 105000 99
+0 0
+
+10006887 Nem chua rán Đôi Đũa Vàng gói 420g
+10006887 nem chua ran doi dua vang goi 420g
+10006887 nem chua rán đôi đũa vàng gói 420g
+1
+gói
+44000 68100 68100 19
+0 0
+
+10006888 Nem chua rán Đôi Đũa Vàng gói 420g
+10006888 nem chua ran doi dua vang goi 420g
+10006888 nem chua rán đôi đũa vàng gói 420g
+1
+gói
+89000 114500 99900 33
+0 0
+
+10006914 Thanh cua surimi Mayumi gói 500g
+10006914 thanh cua surimi mayumi goi 500g
+10006914 thanh cua surimi mayumi gói 500g
+1
+gói
+93000 126900 116400 109
+0 0
+
+10006946 Pizza Đôi Đũa Vàng nhân hải sản hộp 350g
+10006946 pizza doi dua vang nhan hai san hop 350g
+10006946 pizza đôi đũa vàng nhân hải sản hộp 350g
+1
+hộp
+80000 109500 109500 12
+0 0
+

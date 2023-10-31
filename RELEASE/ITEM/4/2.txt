@@ -1,0 +1,24 @@
+10007176 Bánh bao nhân xá xíu Phú Mỹ Bakery gói 300g 
+10007176 banh bao nhan xa xiu phu my bakery goi 300g 
+10007176 bánh bao nhân xá xíu phú mỹ bakery gói 300g 
+1
+gói
+25000 33600 33600 22
+0 0
+
+10007178 Bánh bao chay bơ sữa Phú Mỹ Bakery 200g
+10007178 banh bao chay bo sua phu my bakery 200g
+10007178 bánh bao chay bơ sữa phú mỹ bakery 200g
+1
+túi
+6000 11600 1600 90
+0 0
+
+10007204 Bánh bao chay trắng Malai 40 chiếc 600g
+10007204 banh bao chay trang malai 40 chiec 600g
+10007204 bánh bao chay trắng malai 40 chiếc 600g
+1
+túi
+25000 38500 38500 27
+0 0
+

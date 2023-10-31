@@ -1,0 +1,40 @@
+10005715 Bơ mặn Président gói 200g
+10005715 bo man president goi 200g
+10005715 bơ mặn président gói 200g
+1
+miếng
+78000 100300 100300 49
+0 0
+
+10005716 Bơ nhạt Président gói 200g
+10005716 bo nhat president goi 200g
+10005716 bơ nhạt président gói 200g
+1
+miếng
+78000 100300 100300 49
+0 0
+
+10005761 Phô mai Vinamilk hộp 120g (8 miếng)
+10005761 pho mai vinamilk hop 120g 8 mieng
+10005761 phô mai vinamilk hộp 120g 8 miếng
+1
+hộp
+24000 30500 27800 48
+0 0
+
+10170492 Phô Mai Con Bò Cười 16 miếng 224g
+10170492 pho mai con bo cuoi 16 mieng 224g
+10170492 phô mai con bò cười 16 miếng 224g
+1
+hộp
+48500 64200 64200 47
+0 0
+
+10606685 Bơ lạt tự nhiên TH True milk 200g
+10606685 bo lat tu nhien th true milk 200g
+10606685 bơ lạt tự nhiên th true milk 200g
+1
+gói
+43000 64400 51400 44
+0 0
+

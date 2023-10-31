@@ -1,0 +1,120 @@
+10005011 Bánh nướng nhân thập cẩm nướng cắt Bảo Minh gói 160g
+10005011 banh nuong nhan thap cam nuong cat bao minh goi 160g
+10005011 bánh nướng nhân thập cẩm nướng cắt bảo minh gói 160g
+1
+gói
+13000 29000 29000 90
+0 0
+
+10005012 Bánh nướng nhân sầu riêng Bảo Minh gói 140g
+10005012 banh nuong nhan sau rieng bao minh goi 140g
+10005012 bánh nướng nhân sầu riêng bảo minh gói 140g
+1
+gói
+13000 29000 29000 70
+0 0
+
+10005016 Bánh bông nhài Bảo Minh gói 180g
+10005016 banh bong nhai bao minh goi 180g
+10005016 bánh bông nhài bảo minh gói 180g
+1
+gói
+13000 26000 26000 35
+0 0
+
+10005189 Bánh nướng nhân đậu xanh Bảo Minh túi 160g
+10005189 banh nuong nhan dau xanh bao minh tui 160g
+10005189 bánh nướng nhân đậu xanh bảo minh túi 160g
+1
+túi
+13000 29000 29000 935
+0 0
+
+10005197 Bánh chả Bảo Minh gói 230g
+10005197 banh cha bao minh goi 230g
+10005197 bánh chả bảo minh gói 230g
+1
+gói
+13000 29000 29000 79
+0 0
+
+10055438 Bánh cốm đậu xanh trần Bảo Minh 85g
+10055438 banh com dau xanh tran bao minh 85g
+10055438 bánh cốm đậu xanh trần bảo minh 85g
+1
+bánh
+4000 8600 8600 79
+0 0
+
+10055993 Bánh mỳ Paket Bảo Ngọc gói 108g
+10055993 banh my paket bao ngoc goi 108g
+10055993 bánh mỳ paket bảo ngọc gói 108g
+1
+gói
+4000 10400 10400 99
+0 0
+
+10055996 Bánh sừng hươu Bảo Ngọc gói 175g
+10055996 banh sung huou bao ngoc goi 175g
+10055996 bánh sừng hươu bảo ngọc gói 175g
+1
+bánh
+5000 14800 14800 700
+0 0
+
+10140051 Bánh mỳ Hoa Cúc Sapo 100g
+10140051 banh my hoa cuc sapo 100g
+10140051 bánh mỳ hoa cúc sapo 100g
+1
+bánh
+15000 25000 2500 700
+0 0
+
+10140247 Bánh trứng Karo chà bông 26g
+10140247 banh trung karo cha bong 26g
+10140247 bánh trứng karo chà bông 26g
+1
+bánh
+19000 38500 38500 50
+0 0
+
+10140398 Bánh mì sandwich Staff gói 275g
+10140398 banh mi sandwich staff goi 275g
+10140398 bánh mì sandwich staff gói 275g
+1
+bánh
+8000 16500 13500 99
+0 0
+
+10140588 Bông lan trứng muối Sapo hộp 215g
+10140588 bong lan trung muoi sapo hop 215g
+10140588 bông lan trứng muối sapo hộp 215g
+1
+bánh
+30000 49000 49000 23
+0 0
+
+10181738 Sandwich nhân sữa chua Lava Bảo Ngọc 50g
+10181738 sandwich nhan sua chua lava bao ngoc 50g
+10181738 sandwich nhân sữa chua lava bảo ngọc 50g
+1
+bánh
+3000 6900 6900 22
+0 0
+
+10223933 Bánh pía chay Bảo Minh gói 50g
+10223933 banh pia chay bao minh goi 50g
+10223933 bánh pía chay bảo minh gói 50g
+1
+bánh
+4000 8500 8500 22
+0 0
+
+10282123 Pizza nhân hải sản(size 10) Sapo 70g
+10282123 pizza nhan hai sansize 10 sapo 70g
+10282123 pizza nhân hải sảnsize 10 sapo 70g
+1
+miếng
+22000 34800 34800 50
+0 0
+

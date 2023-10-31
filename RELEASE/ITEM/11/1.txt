@@ -1,0 +1,42 @@
+10011216 Nước khoáng thiên nhiên Aquafina chai 500ml
+10011216 nuoc khoang thien nhien aquafina chai 500ml
+10011216 nước khoáng thiên nhiên aquafina chai 500ml
+1
+chai
+3500 5400 5400 33
+0 0
+
+10011452 Nước tinh khiết Dasani 350ml
+10011452 nuoc tinh khiet dasani 350ml
+10011452 nước tinh khiết dasani 350ml
+1
+chai
+2300 4100 4100 34
+0 0
+
+10011549 Nước khoáng thiên nhiên Evian chai 330ml
+10011549 nuoc khoang thien nhien evian chai 330ml
+10011549 nước khoáng thiên nhiên evian chai 330ml
+2
+thùng
+430000 495500 495500 55
+chai
+19000 25000 22100 39
+0 0
+
+10194714 Nước khoáng Lavie chai 700ml
+10194714 nuoc khoang lavie chai 700ml
+10194714 nước khoáng lavie chai 700ml
+1
+chai
+5000 9200 9200 31
+0 0
+
+10323287 Nước khoáng Lavie nắp thể thao 750ml
+10323287 nuoc khoang lavie nap the thao 750ml
+10323287 nước khoáng lavie nắp thể thao 750ml
+1
+chai
+4800 8900 8900 32
+0 0
+

@@ -1,0 +1,8 @@
+echo "\x1B[41m"
+echo "\x1B[42m" 
+echo "\x1B[43m" 
+echo "\x1B[44m" 
+echo "\x1B[45m" 
+echo "\x1B[46m"
+echo "\x1B[47m"
+echo "\x1B[40m"

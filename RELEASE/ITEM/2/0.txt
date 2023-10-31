@@ -1,0 +1,46 @@
+10053860 Cải thảo
+10053860 cai thao
+10053860 cải thảo
+2
+0.5KG
+5350 9950 9950 100
+1KG
+13600 19900 19900 101
+0 0
+
+10053877 Nha đam Đà Lạt
+10053877 nha dam da lat
+10053877 nha đam đà lạt
+2
+0.3KG
+2340 7350 7350 102
+0.5KG
+4560 12500 12500 103
+0 0
+
+10053991 Nấm kim châm 150g
+10053991 nam kim cham 150g
+10053991 nấm kim châm 150g
+1
+gói
+2560 9900 9900 104
+0 0
+
+10054007 Măng trúc quân thử Kim Bôi 300g
+10054007 mang truc quan thu kim boi 300g
+10054007 măng trúc quân thử kim bôi 300g
+1
+gói
+33000 51000 51000 105
+0 0
+
+10054020 Bắp cải trắng
+10054020 bap cai trang
+10054020 bắp cải trắng
+2
+0.6KG
+3470 11940 11940 106
+1KG
+8970 19900 19900 107
+0 0
+

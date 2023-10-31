@@ -1,0 +1,40 @@
+10005169 Tàu hũ bổ dưỡng Tafu gói 300g 
+10005169 tau hu bo duong tafu goi 300g 
+10005169 tàu hũ bổ dưỡng tafu gói 300g 
+1
+gói
+6000 9600 9600 29
+0 0
+
+10005170 Tàu hũ trứng bổ dưỡng Tafu gói 240g 
+10005170 tau hu trung bo duong tafu goi 240g 
+10005170 tàu hũ trứng bổ dưỡng tafu gói 240g 
+1
+gói
+10000 15100 15100 100
+0 0
+
+10005172 Tàu hũ mềm Ichiban hộp 300g 
+10005172 tau hu mem ichiban hop 300g 
+10005172 tàu hũ mềm ichiban hộp 300g 
+1
+hộp
+6000 11700 11700 254
+0 0
+
+10006085 Đậu phụ tươi Làng Mơ hộp 400g
+10006085 dau phu tuoi lang mo hop 400g
+10006085 đậu phụ tươi làng mơ hộp 400g
+1
+hộp
+6000 11900 11900 254
+0 0
+
+10170044 Đậu hũ đậu hũ Làng Mơ Thai corp
+10170044 dau hu dau hu lang mo thai corp
+10170044 đậu hũ đậu hũ làng mơ thai corp
+1
+hộp
+6000 14300 11900 254
+0 0
+

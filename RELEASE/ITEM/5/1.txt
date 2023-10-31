@@ -1,0 +1,64 @@
+10170321 Ba chỉ bò mỹ cắt cuộn chấm sốt sukiyaki Orifood khay 500g
+10170321 ba chi bo my cat cuon cham sot sukiyaki orifood khay 500g
+10170321 ba chỉ bò mỹ cắt cuộn chấm sốt sukiyaki orifood khay 500g
+1
+khay
+150000 193400 193400 90
+0 0
+
+10182449 Ba chỉ bò Canada WinMart Good khay 300g
+10182449 ba chi bo canada winmart good khay 300g
+10182449 ba chỉ bò canada winmart good khay 300g
+1
+khay
+60000 75000 75000 90
+0 0
+
+10182452 Ba chỉ bò Canada WinMart Good khay 500g
+10182452 ba chi bo canada winmart good khay 500g
+10182452 ba chỉ bò canada winmart good khay 500g
+1
+khay
+100000 136000 136000 10
+0 0
+
+10182453 Nạc vai bò Canada WinMart Good khay 500g 
+10182453 nac vai bo canada winmart good khay 500g 
+10182453 nạc vai bò canada winmart good khay 500g 
+1
+khay
+140000 171500 171500 100
+0 0
+
+10182454 Gầu bò Canada WinMart Good 500g
+10182454 gau bo canada winmart good 500g
+10182454 gầu bò canada winmart good 500g
+1
+500g
+130000 165800 99 0
+0 0
+
+10182613 Gà CP nugget tẩm bột chiên 500g
+10182613 ga cp nugget tam bot chien 500g
+10182613 gà cp nugget tẩm bột chiên 500g
+1
+500g
+50000 75600 63600 100
+0 0
+
+10315294 Thịt bò nướng mỏng Fuji 200g
+10315294 thit bo nuong mong fuji 200g
+10315294 thịt bò nướng mỏng fuji 200g
+1
+200g
+150000 211200 211200 109
+0 0
+
+10182612 Gà CP donut tẩm bột chiên 500g
+10182612 ga cp donut tam bot chien 500g
+10182612 gà cp donut tẩm bột chiên 500g
+1
+500g
+50000 75600 75600 18
+0 0
+

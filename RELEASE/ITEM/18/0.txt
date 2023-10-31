@@ -1,0 +1,40 @@
+10022955 Túi giấy ngang trung số 0
+10022955 tui giay ngang trung so 0
+10022955 túi giấy ngang trung số 0
+1
+cái
+3480 10200 10200 38
+0 0
+
+10022956 Túi giấy to số 1
+10022956 tui giay to so 1
+10022956 túi giấy to số 1
+1
+cái
+3250 9900 9900 45
+0 0
+
+10022957 Túi giấy to số 2
+10022957 tui giay to so 2
+10022957 túi giấy to số 2
+1
+cái
+3120 8800 8800 49
+0 0
+
+10022958 Túi giấy trung số 3
+10022958 tui giay trung so 3
+10022958 túi giấy trung số 3
+1
+cái
+2350 7800 7800 65
+0 0
+
+10031972 Tập tô màu Thiên Long CB-017/DO
+10031972 tap to mau thien long cb017do
+10031972 tập tô màu thiên long cb017do
+1
+quyển
+14300 21000 21000 122
+0 0
+

@@ -1,0 +1,40 @@
+10010455 Sữa đặc có đường Ông Thọ Vinamilk lon 380g
+10010455 sua dac co duong ong tho vinamilk lon 380g
+10010455 sữa đặc có đường ông thọ vinamilk lon 380g
+1
+hộp
+16500 27200 27200 39
+0 0
+
+10010456 Kem đặc Ngôi Sao Phương Nam có đường lon 380g
+10010456 kem dac ngoi sao phuong nam co duong lon 380g
+10010456 kem đặc ngôi sao phương nam có đường lon 380g
+1
+hộp
+14500 21400 202000 5
+0 0
+
+10010458 Kem đặc có đường Vinamilk Ngôi Sao Phương Nam hộp 1,284kg
+10010458 kem dac co duong vinamilk ngoi sao phuong nam hop 1284kg
+10010458 kem đặc có đường vinamilk ngôi sao phương nam hộp 1284kg
+1
+hộp
+58700 70700 70700 4
+0 0
+
+10010459 Sữa đặc có đường Ông Thọ đỏ lon 380g
+10010459 sua dac co duong ong tho do lon 380g
+10010459 sữa đặc có đường ông thọ đỏ lon 380g
+1
+hộp
+17600 26000 26000 9
+0 0
+
+10010460 Sữa đặc có đường Ông Thọ trắng lon 380g
+10010460 sua dac co duong ong tho trang lon 380g
+10010460 sữa đặc có đường ông thọ trắng lon 380g
+1
+hộp
+23000 32800 32800 15
+0 0
+

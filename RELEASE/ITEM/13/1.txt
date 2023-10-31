@@ -1,0 +1,40 @@
+10019339 Bột giặt LIX extra gói 5,5kg/ 6kg
+10019339 bot giat lix extra goi 55kg 6kg
+10019339 bột giặt lix extra gói 55kg 6kg
+1
+gói
+133600 175000 175000 43
+0 0
+
+10019416 Nước giặt quần áo em bé D-nee Yellow Moon can 3L
+10019416 nuoc giat quan ao em be dnee yellow moon can 3l
+10019416 nước giặt quần áo em bé dnee yellow moon can 3l
+1
+can
+187000 225000 225000 34
+0 0
+
+10019421 Nước xả mềm quần áo D-nee Happy Baby can 3L
+10019421 nuoc xa mem quan ao dnee happy baby can 3l
+10019421 nước xả mềm quần áo dnee happy baby can 3l
+1
+can
+180000 219000 219000 0
+0 0
+
+10019433 Nước giặt đậm đặc Essence dạng chai 1,9L
+10019433 nuoc giat dam dac essence dang chai 19l
+10019433 nước giặt đậm đặc essence dạng chai 19l
+1
+chai
+144000 179000 179000 2
+0 0
+
+10019434 Nước giặt quần áo đậm đặc Essence dạng chai 1,9 L
+10019434 nuoc giat quan ao dam dac essence dang chai 19 l
+10019434 nước giặt quần áo đậm đặc essence dạng chai 19 l
+1
+chai
+144000 179000 179000 5
+0 0
+

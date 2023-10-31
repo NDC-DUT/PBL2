@@ -1,0 +1,80 @@
+10008695 Tương cà chai PET Cholimex chai 2.1kg
+10008695 tuong ca chai pet cholimex chai 21kg
+10008695 tương cà chai pet cholimex chai 21kg
+1
+chai
+49500 62700 62700 239
+0 0
+
+10008696 Tương cà Cholimex chai 270g
+10008696 tuong ca cholimex chai 270g
+10008696 tương cà cholimex chai 270g
+1
+chai
+3900 11800 11800 23
+0 0
+
+10008738 Tương ớt Chin-su 250g
+10008738 tuong ot chinsu 250g
+10008738 tương ớt chinsu 250g
+1
+chai
+5000 14000 14000 23
+0 0
+
+10008739 Tương ớt Cholimex chai 2,1kg
+10008739 tuong ot cholimex chai 21kg
+10008739 tương ớt cholimex chai 21kg
+1
+chai
+36000 63600 63600 12
+0 0
+
+10008740 Tương ớt Cholimex chai 270g
+10008740 tuong ot cholimex chai 270g
+10008740 tương ớt cholimex chai 270g
+1
+chai
+4900 11300 11300 121
+0 0
+
+10008924 Sốt cà chua Heinz chai 567g
+10008924 sot ca chua heinz chai 567g
+10008924 sốt cà chua heinz chai 567g
+1
+chai
+45000 73400 50300 22
+0 0
+
+10008930 Tương ớt Heinz chai 300g
+10008930 tuong ot heinz chai 300g
+10008930 tương ớt heinz chai 300g
+1
+chai
+15000 27300 23900 121
+0 0
+
+10008931 Tương cà chua Heinz chai 300g
+10008931 tuong ca chua heinz chai 300g
+10008931 tương cà chua heinz chai 300g
+1
+chai
+11000 27300 25000 100
+0 0
+
+10009249 Tương ớt Sempio hộp 500g
+10009249 tuong ot sempio hop 500g
+10009249 tương ớt sempio hộp 500g
+1
+hộp
+57800 82500 82500 99
+0 0
+
+10009337 Tương ớt Cholimex chai chai 830g
+10009337 tuong ot cholimex chai chai 830g
+10009337 tương ớt cholimex chai chai 830g
+1
+chai
+14000 29800 29800 112
+0 0
+

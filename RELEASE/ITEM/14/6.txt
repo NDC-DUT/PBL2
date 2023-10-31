@@ -1,0 +1,40 @@
+10020206 Khăn giấy rút 2 lớp Silkwell 250 tờ
+10020206 khan giay rut 2 lop silkwell 250 to
+10020206 khăn giấy rút 2 lớp silkwell 250 tờ
+1
+gói
+9000 22000 22000 30
+0 0
+
+10020501 Khăn giấy lụa 2 lớp Elene gói 260 tờ
+10020501 khan giay lua 2 lop elene goi 260 to
+10020501 khăn giấy lụa 2 lớp elene gói 260 tờ
+1
+gói
+13000 25400 25400 12
+0 0
+
+10020502 Giấy bếp đa dụng 2 lớp Elene gói 100 tờ
+10020502 giay bep da dung 2 lop elene goi 100 to
+10020502 giấy bếp đa dụng 2 lớp elene gói 100 tờ
+1
+gói
+13200 23200 23200 11
+0 0
+
+10020515 Khăn ướt không mùi Mamamy 100 tờ
+10020515 khan uot khong mui mamamy 100 to
+10020515 khăn ướt không mùi mamamy 100 tờ
+1
+gói
+19000 48500 39900 5
+0 0
+
+10020524 Giấy đa năng Let-green dạng rút 130 tờ
+10020524 giay da nang letgreen dang rut 130 to
+10020524 giấy đa năng letgreen dạng rút 130 tờ
+1
+gói
+3500 14200 14200 9
+0 0
+

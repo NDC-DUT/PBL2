@@ -1,0 +1,32 @@
+10005597 Nộm sứa Tĩnh Gia Nhật Minh gói 350g
+10005597 nom sua tinh gia nhat minh goi 350g
+10005597 nộm sứa tĩnh gia nhật minh gói 350g
+1
+gói
+31200 25900 25900 265
+0 0
+
+10053305 Cá thu nguyên con 2K
+10053305 ca thu nguyen con 2k
+10053305 cá thu nguyên con 2k
+1
+con
+300000 578000 578000 29
+0 0
+
+10605775 Tôm nõn khô hộp 100g
+10605775 tom non kho hop 100g
+10605775 tôm nõn khô hộp 100g
+1
+200g
+104000 104000 104000 27
+0 0
+
+10605776 Tôm nõn khô hộp 200g
+10605776 tom non kho hop 200g
+10605776 tôm nõn khô hộp 200g
+1
+200g
+150000 198000 198000 254
+0 0
+

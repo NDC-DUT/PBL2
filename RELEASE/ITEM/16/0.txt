@@ -1,0 +1,40 @@
+10023126 Drap bọc cotton hoa Hometex 1,6 x 2 m
+10023126 drap boc cotton hoa hometex 16 x 2 m
+10023126 drap bọc cotton hoa hometex 16 x 2 m
+1
+cái
+376000 495000 405000 19
+0 0
+
+10023128 Bộ drap gối bọc cotton hoa 160 x 200 cm (Nhiều màu)
+10023128 bo drap goi boc cotton hoa 160 x 200 cm nhieu mau
+10023128 bộ drap gối bọc cotton hoa 160 x 200 cm nhiều màu
+1
+bộ
+599400 830000 667000 15
+0 0
+
+10023131 Bộ chăn drap bọc cotton hoa Hometex 160 x 200 cm
+10023131 bo chan drap boc cotton hoa hometex 160 x 200 cm
+10023131 bộ chăn drap bọc cotton hoa hometex 160 x 200 cm
+1
+bộ
+1250500 1599000 1309000 33
+0 0
+
+10023194 Áo gối đầu Vigatexco Home 40 x 60 cm
+10023194 ao goi dau vigatexco home 40 x 60 cm
+10023194 áo gối đầu vigatexco home 40 x 60 cm
+1
+cái
+45900 78000 78000 22
+0 0
+
+10023195 Vỏ gối đầu 50x70 cm
+10023195 vo goi dau 50x70 cm
+10023195 vỏ gối đầu 50x70 cm
+1
+cái
+76700 110000 110000 36
+0 0
+

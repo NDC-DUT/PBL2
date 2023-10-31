@@ -1,0 +1,64 @@
+10005201 Kim chi cải thảo cắt lát Ông Kim's túi 100g
+10005201 kim chi cai thao cat lat ong kims tui 100g
+10005201 kim chi cải thảo cắt lát ông kims túi 100g
+1
+túi
+6000 13300 13300 99
+0 0
+
+10006075 Kim chi cải thảo thực phẩm sạch tự nhiên 500g
+10006075 kim chi cai thao thuc pham sach tu nhien 500g
+10006075 kim chi cải thảo thực phẩm sạch tự nhiên 500g
+1
+hộp
+27000 43000 43000 232
+0 0
+
+10006081 Kim chi cải thảo cắt lát Ông Kim's hộp 500g
+10006081 kim chi cai thao cat lat ong kims hop 500g
+10006081 kim chi cải thảo cắt lát ông kims hộp 500g
+1
+hộp
+29000 47600 38500 21
+0 0
+
+10007223 Kim chi cải thảo chay Ông Kim's hộp 500g
+10007223 kim chi cai thao chay ong kims hop 500g
+10007223 kim chi cải thảo chay ông kims hộp 500g
+1
+hộp
+29000 47900 47900 21
+0 0
+
+10306485 Kim chi cải thảo Cô Hường 500g
+10306485 kim chi cai thao co huong 500g
+10306485 kim chi cải thảo cô hường 500g
+1
+hộp
+27000 44200 44200 200
+0 0
+
+10321385 Kim chi cải thảo ngò Bibigo Ông Kim's 100g
+10321385 kim chi cai thao ngo bibigo ong kims 100g
+10321385 kim chi cải thảo ngò bibigo ông kims 100g
+1
+túi
+7000 13800 13800 94
+0 0
+
+10321386 Kim chi cải thảo ngò Ông Kim's hộp 500g
+10321386 kim chi cai thao ngo ong kims hop 500g
+10321386 kim chi cải thảo ngò ông kims hộp 500g
+1
+hộp
+30000 45700 45700 21
+0 0
+
+10405638 Kim chi cải thảo King BBQ cắt lát 450g
+10405638 kim chi cai thao king bbq cat lat 450g
+10405638 kim chi cải thảo king bbq cắt lát 450g
+1
+hộp
+29000 48400 48400 11
+0 0
+

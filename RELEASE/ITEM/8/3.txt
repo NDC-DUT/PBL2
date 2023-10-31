@@ -1,0 +1,48 @@
+10008542 Nước tương Kikkoman chai 150ml
+10008542 nuoc tuong kikkoman chai 150ml
+10008542 nước tương kikkoman chai 150ml
+1
+chai
+67890 86100 86100 44
+0 0
+
+10008617 Nước tương Phú Sĩ Ajinomoto chai 500ml
+10008617 nuoc tuong phu si ajinomoto chai 500ml
+10008617 nước tương phú sĩ ajinomoto chai 500ml
+1
+chai
+9200 18200 18200 45
+0 0
+
+10008687 Nước tương đậm đặc Maggi 300ml
+10008687 nuoc tuong dam dac maggi 300ml
+10008687 nước tương đậm đặc maggi 300ml
+1
+chai
+8760 17100 17100 46
+0 0
+
+10008688 Nước tương Đậm đặc Maggi 700ml
+10008688 nuoc tuong dam dac maggi 700ml
+10008688 nước tương đậm đặc maggi 700ml
+1
+chai
+20300 33500 33500 47
+0 0
+
+10008690 Nước tương Tam Thái Tử Nhất Ca chai 500ml
+10008690 nuoc tuong tam thai tu nhat ca chai 500ml
+10008690 nước tương tam thái tử nhất ca chai 500ml
+1
+chai
+8700 17700 17700 48
+0 0
+
+10623446 Nước tương đậu nành Lee Kum Kee chai 500ml
+10623446 nuoc tuong dau nanh lee kum kee chai 500ml
+10623446 nước tương đậu nành lee kum kee chai 500ml
+1
+chai
+16700 26100 26100 0
+0 0
+

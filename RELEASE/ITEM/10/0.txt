@@ -1,0 +1,40 @@
+10005237 Sữa tươi thanh trùng Mộc Châu không đường chai 900g
+10005237 sua tuoi thanh trung moc chau khong duong chai 900g
+10005237 sữa tươi thanh trùng mộc châu không đường chai 900g
+1
+chai
+16700 33800 33800 41
+0 0
+
+10005290 Sữa tươi tiệt trùng nguyên chất TH True Milk hộp 1 lít
+10005290 sua tuoi tiet trung nguyen chat th true milk hop 1 lit
+10005290 sữa tươi tiệt trùng nguyên chất th true milk hộp 1 lít
+1
+hộp
+15600 36500 36500 40
+0 0
+
+10005402 Sữa tiệt trùng Vinamilk không đường túi 220ml
+10005402 sua tiet trung vinamilk khong duong tui 220ml
+10005402 sữa tiệt trùng vinamilk không đường túi 220ml
+1
+gói
+3300 8000 8000 42
+0 0
+
+10005822 Kem sữa tươi whipping cream Anchor hộp 1L
+10005822 kem sua tuoi whipping cream anchor hop 1l
+10005822 kem sữa tươi whipping cream anchor hộp 1l
+1
+hộp
+123450 156000 156000 43
+0 0
+
+10194795 PROMESS Sữa tươi tiệt trùng Chuối200ml*3
+10194795 promess sua tuoi tiet trung chuoi200ml3
+10194795 promess sữa tươi tiệt trùng chuối200ml3
+1
+gói3
+35000 44200 44200 44
+0 0
+

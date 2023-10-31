@@ -1,0 +1,86 @@
+10007983 Cháo thịt gà Vifon gói 70g
+10007983 chao thit ga vifon goi 70g
+10007983 cháo thịt gà vifon gói 70g
+2
+thùng
+377000 435000 435000 99
+gói
+4400 8800 8800 1000
+0 0
+
+10007984 Cháo thịt bằm Vifon gói 70g
+10007984 chao thit bam vifon goi 70g
+10007984 cháo thịt bằm vifon gói 70g
+2
+thùng
+355000 445000 445000 109
+gói
+3500 9000 9000 12
+0 0
+
+10007985 Cháo nấm đông cô ăn liền Vifon gói 70g
+10007985 chao nam dong co an lien vifon goi 70g
+10007985 cháo nấm đông cô ăn liền vifon gói 70g
+2
+thùng
+355000 455000 455000 209
+gói
+3400 9200 7900 190
+0 0
+
+10007993 Cháo sen bát bảo Minh Trung lon 365g
+10007993 chao sen bat bao minh trung lon 365g
+10007993 cháo sen bát bảo minh trung lon 365g
+1
+hộp
+15000 20300 20300 19
+0 0
+
+10008239 Cháo yến vị gà Yến Việt gói 50g
+10008239 chao yen vi ga yen viet goi 50g
+10008239 cháo yến vị gà yến việt gói 50g
+1
+gói
+4200 9800 9800 109
+0 0
+
+10008240 Cháo yến thịt bằm Yến Việt gói 50g
+10008240 chao yen thit bam yen viet goi 50g
+10008240 cháo yến thịt bằm yến việt gói 50g
+1
+gói
+4400 9800 9800 19
+0 0
+
+10141345 Cháo trứng muối Vifon gói 70g
+10141345 chao trung muoi vifon goi 70g
+10141345 cháo trứng muối vifon gói 70g
+1
+gói
+3900 9000 9000 109
+0 0
+
+10141346 Cháo thịt bò Vifon gói 70g
+10141346 chao thit bo vifon goi 70g
+10141346 cháo thịt bò vifon gói 70g
+1
+gói
+5100 9000 9000 100
+0 0
+
+10141348 Cháo yến vị gà Vifon gói 50g
+10141348 chao yen vi ga vifon goi 50g
+10141348 cháo yến vị gà vifon gói 50g
+1
+gói
+5800 10600 10600 1000
+0 0
+
+10141349 Cháo yến vị thịt bằm Vifon 50g
+10141349 chao yen vi thit bam vifon 50g
+10141349 cháo yến vị thịt bằm vifon 50g
+1
+gói
+4900 10600 10600 192
+0 0
+

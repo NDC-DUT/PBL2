@@ -1,0 +1,366 @@
+10054788 Dưa hấu không hạt
+10054788 dua hau khong hat
+10054788 dưa hấu không hạt
+1
+2.5 KG
+63400 74750 74750 15
+0 0
+
+10054790 Thanh long ruột đỏ
+10054790 thanh long ruot do
+10054790 thanh long ruột đỏ
+2
+1.1 KG
+32400 43890 43890 7
+1.3 KG
+44760 51870 51870 0
+0 0
+
+10054831 Sầu riêng hạt lép
+10054831 sau rieng hat lep
+10054831 sầu riêng hạt lép
+2
+1.8 KG
+195400 233820 233820 11
+2.5 KG
+299300 324750 324750 0
+0 0
+
+10054840 Kiwi xanh New Zealand
+10054840 kiwi xanh new zealand
+10054840 kiwi xanh new zealand
+3
+0.4 KG
+49970 54360 47600 154
+0.6 KG
+65780 81540 71400 76
+1 KG
+113500 135900 119000 35
+0 0
+
+10054858 Cam Sành loại nhỏ
+10054858 cam sanh loai nho
+10054858 cam sành loại nhỏ
+2
+1 KG
+28500 37900 32900 44
+1.2 KG
+36900 45400 39480 31
+0 0
+
+10054861 Táo Ambrosia New Zealand
+10054861 tao ambrosia new zealand
+10054861 táo ambrosia new zealand
+2
+0.5 KG
+72500 84500 84500 211
+1 KG
+153400 169000 169000 96
+0 0
+
+10054870 Bưởi hồng da xanh túi lưới
+10054870 buoi hong da xanh tui luoi
+10054870 bưởi hồng da xanh túi lưới
+3
+1.2 KG
+49500 59880 59880 13
+1.4 KG
+58350 69860 69860 7
+1.6 KG
+69690 79840 79840 1
+0 0
+
+10054875 Chuối dole
+10054875 chuoi dole
+10054875 chuối dole
+3
+0.7 KG
+13860 27650 27650 355
+1 KG
+24400 39500 39500 465
+1.2 KG
+33600 47400 47400 369
+0 0
+
+10054890 Táo Jazz New Zealand
+10054890 tao jazz new zealand
+10054890 táo jazz new zealand
+2
+0.5 KG
+36900 49950 49950 113
+1 KG
+76500 99900 99900 136
+0 0
+
+10054896 Nho đen không hạt Mỹ
+10054896 nho den khong hat my
+10054896 nho đen không hạt mỹ
+1
+1 KG
+160100 189000 189000 255
+0 0
+
+10054899 Quýt Úc
+10054899 quyt uc
+10054899 quýt úc
+2
+0.5 KG
+35340 49950 49950 255
+1 KG
+72400 99900 99900 27
+0 0
+
+10054905 Kiwi vàng New Zealand
+10054905 kiwi vang new zealand
+10054905 kiwi vàng new zealand
+1
+1 KG
+172500 209900 189900 369
+0 0
+
+10054909 Táo Envy NewZealand 90 - 110
+10054909 tao envy newzealand 90  110
+10054909 táo envy newzealand 90  110
+3
+0.5 KG
+62950 79950 79950 112
+1 KG
+142900 189000 159900 36
+1.2 KG
+182300 226800 191880 56
+0 0
+
+10055026 Dưa hấu Hắc Mỹ Nhân (Long An)
+10055026 dua hau hac my nhan long an
+10055026 dưa hấu hắc mỹ nhân long an
+3
+1.8 KG
+39200 53820 53820 100
+2 KG
+40100 59800 59800 69
+2.5 KG
+59670 74750 74750 123
+0 0
+
+10055105 Chuối vàng
+10055105 chuoi vang
+10055105 chuối vàng
+2
+0.5 KG
+6500 12450 12450 699
+1 KG
+13690 24900 24900 579
+0 0
+
+10056225 Lê đỏ Nam phi
+10056225 le do nam phi
+10056225 lê đỏ nam phi
+2
+0.5 KG
+40000 47950 47950 23
+1 KG
+83200 95900 95900 17
+0 0
+
+10060637 Táo Envy New Zealand size lớn
+10060637 tao envy new zealand size lon
+10060637 táo envy new zealand size lớn
+1
+1 KG
+162400 199900 199900 199
+0 0
+
+10071516 Táo Ambrosia New Zealand
+10071516 tao ambrosia new zealand
+10071516 táo ambrosia new zealand
+3
+0.5 KG
+42940 59950 59950 396
+1 KG
+99600 119900 119900 233
+1.2 KG
+129680 143880 143880 193
+0 0
+
+10083920 Mận đá đường
+10083920 man da duong
+10083920 mận đá đường
+2
+0.5 KG
+15420 24950 24950 123
+1 KG
+36900 49900 49900 76
+0 0
+
+10141169 Táo rockit New Zealand (hộp 3 trái)
+10141169 tao rockit new zealand hop 3 trai
+10141169 táo rockit new zealand hộp 3 trái
+1
+Hộp
+91600 106500 106500 22
+0 0
+
+10235280 Kiwi xanh Newzealand (4trái/hộp)
+10235280 kiwi xanh newzealand 4traihop
+10235280 kiwi xanh newzealand 4tráihộp
+1
+Hộp
+65500 79900 79900 5
+0 0
+
+10235281 Kiwi Vàng New Zealand (4trái/hộp)
+10235281 kiwi vang new zealand 4traihop
+10235281 kiwi vàng new zealand 4tráihộp
+1
+Hộp
+102300 135000 135000 199
+0 0
+
+10236508 Táo Jazz NewZealand (6trái/hộp)
+10236508 tao jazz newzealand 6traihop
+10236508 táo jazz newzealand 6tráihộp
+1
+Hộp
+89300 109900 109900 105
+0 0
+
+10242407 Dưa lưới sạch Đế Vương King size ruột cam
+10242407 dua luoi sach de vuong king size ruot cam
+10242407 dưa lưới sạch đế vương king size ruột cam
+1
+Quả
+89500 99000 99000 10
+0 0
+
+10242467 Bưởi hồng da xanh túi lưới loại 1
+10242467 buoi hong da xanh tui luoi loai 1
+10242467 bưởi hồng da xanh túi lưới loại 1
+1
+1.2 KG
+62300 80280 80280 49
+0 0
+
+10283142 Táo Gala Pháp size nhỏ
+10283142 tao gala phap size nho
+10283142 táo gala pháp size nhỏ
+2
+0.5 KG
+16200 29950 24950 130
+1 KG
+45110 59900 49900 0
+0 0
+
+10308189 Dưa lê kim cô nương
+10308189 dua le kim co nuong
+10308189 dưa lê kim cô nương
+1
+1.2 KG
+61230 77400 77400 29
+0 0
+
+10314437 Dừa xiêm (Dừa tiện lợi)
+10314437 dua xiem dua tien loi
+10314437 dừa xiêm dừa tiện lợi
+1
+Quả
+12000 19900 19900 30
+0 0
+
+10316132 Chuối Fesepia
+10316132 chuoi fesepia
+10316132 chuối fesepia
+2
+1 KG
+25100 32900 32900 0
+1.5 KG
+32200 49350 49350 0
+0 0
+
+10401646 Cam vàng Úc (3trái/hộp)
+10401646 cam vang uc 3traihop
+10401646 cam vàng úc 3tráihộp
+1
+Hộp
+85700 109900 109900 12
+0 0
+
+10407045 Táo Koru New Zealand
+10407045 tao koru new zealand
+10407045 táo koru new zealand
+1
+1 KG
+81000 94000 94000 12
+0 0
+
+10602355 Kiwi xanh Newzealand (2Trái/Hộp)
+10602355 kiwi xanh newzealand 2traihop
+10602355 kiwi xanh newzealand 2tráihộp
+1
+Hộp
+29760 42900 42900 23
+0 0
+
+10602360 Kiwi vàng Newzealand (2Trái/Hộp)
+10602360 kiwi vang newzealand 2traihop
+10602360 kiwi vàng newzealand 2tráihộp
+1
+Hộp
+49000 69900 69900 72
+0 0
+
+10622559 Táo Fuji Nam Phi túi 3kg
+10622559 tao fuji nam phi tui 3kg
+10622559 táo fuji nam phi túi 3kg
+1
+Gói
+161200 199900 199900 30
+0 0
+
+10627553 Táo Dazzle NewZealand
+10627553 tao dazzle newzealand
+10627553 táo dazzle newzealand
+2
+0.5 KG
+41200 59900 59900 36
+1 KG
+99900 120000 120000 45
+0 0
+
+10628506 Quýt Úc
+10628506 quyt uc
+10628506 quýt úc
+2
+0.5 KG
+34400 49500 44900 99
+1 KG
+81200 99900 89900 35
+0 0
+
+10628789 Cam ruột vàng úc
+10628789 cam ruot vang uc
+10628789 cam ruột vàng úc
+3
+0.6 KG
+39000 47940 47940 10
+1 KG
+68900 79900 79900 6
+1.2 KG
+85500 95880 96000 5
+0 0
+
+10639560 Bưởi Xuân Vân
+10639560 buoi xuan van
+10639560 bưởi xuân vân
+1
+Quả
+23450 35900 34900 31
+0 0
+
+10639713 Xoài keo bao vàng
+10639713 xoai keo bao vang
+10639713 xoài keo bao vàng
+1
+Quả
+32400 43900 36900 35
+0 0
+

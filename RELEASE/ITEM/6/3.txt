@@ -1,0 +1,82 @@
+10007846 Bún tươi Safoco gói 300g
+10007846 bun tuoi safoco goi 300g
+10007846 bún tươi safoco gói 300g
+1
+gói
+15000 21600 21600 290
+0 0
+
+10007849 Bún khô Safoco gói 400g
+10007849 bun kho safoco goi 400g
+10007849 bún khô safoco gói 400g
+1
+gói
+20000 29400 29400 109
+0 0
+
+10007931 Phở Good Gà Acecook gói 68g
+10007931 pho good ga acecook goi 68g
+10007931 phở good gà acecook gói 68g
+1
+gói
+1200 3900 3900 21
+0 0
+
+10007938 Phở bò ăn liền Đệ Nhất Vina Acecook gói 65g/68g
+10007938 pho bo an lien de nhat vina acecook goi 65g68g
+10007938 phở bò ăn liền đệ nhất vina acecook gói 65g68g
+1
+gói
+3200 6900 6900 211
+0 0
+
+10007939 Phở gà Đệ Nhất gói 65g
+10007939 pho ga de nhat goi 65g
+10007939 phở gà đệ nhất gói 65g
+1
+gói
+2300 6900 6900 19
+0 0
+
+10007943 Bún bò Huế Hằng Nga gói 73g
+10007943 bun bo hue hang nga goi 73g
+10007943 bún bò huế hằng nga gói 73g
+1
+gói
+5000 8000 8000 233
+0 0
+
+10007944 Bún giò heo Hằng Nga Vina Acecook gói 75g
+10007944 bun gio heo hang nga vina acecook goi 75g
+10007944 bún giò heo hằng nga vina acecook gói 75g
+1
+gói
+4000 8000 8000 233
+0 0
+
+10007946 Bánh phở khô Xưa & Nay gói 500g
+10007946 banh pho kho xua  nay goi 500g
+10007946 bánh phở khô xưa  nay gói 500g
+1
+gói
+23000 33600 33600 99
+0 0
+
+10007950 Bún gạo Sa Đéc Sa Giang gói 200g
+10007950 bun gao sa dec sa giang goi 200g
+10007950 bún gạo sa đéc sa giang gói 200g
+1
+gói
+78000 13000 13000 29
+0 0
+
+10007955 Bún riêu cua ăn liền Vifon gói 80g
+10007955 bun rieu cua an lien vifon goi 80g
+10007955 bún riêu cua ăn liền vifon gói 80g
+2
+thùng
+230000 289000 289000 23
+gói
+4500 9000 8800 0
+0 0
+

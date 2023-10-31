@@ -1,0 +1,64 @@
+10005018 Kẹo lạc Bảo Minh gói 250g
+10005018 keo lac bao minh goi 250g
+10005018 kẹo lạc bảo minh gói 250g
+1
+gói
+25000 36200 36200 12
+0 0
+
+10005019 Kẹo vừng thanh Bảo Minh gói 200g
+10005019 keo vung thanh bao minh goi 200g
+10005019 kẹo vừng thanh bảo minh gói 200g
+1
+gói
+17000 28500 28500 231
+0 0
+
+10013845 Sô cô la KitKat Chunky gói 38g
+10013845 so co la kitkat chunky goi 38g
+10013845 sô cô la kitkat chunky gói 38g
+1
+gói
+8000 15200 15200 23
+0 0
+
+10014412 Kẹo dẻo Goldbears Haribo gói 80g
+10014412 keo deo goldbears haribo goi 80g
+10014412 kẹo dẻo goldbears haribo gói 80g
+1
+gói
+14900 22100 22100 239
+0 0
+
+10014413 Kẹo dẻo Happy Cola Haribo gói 80g
+10014413 keo deo happy cola haribo goi 80g
+10014413 kẹo dẻo happy cola haribo gói 80g
+1
+gói
+14800 22100 22100 22
+0 0
+
+10014528 Kẹo gum không đường hương Dâu Bạc Hà Xylitol hộp 58g
+10014528 keo gum khong duong huong dau bac ha xylitol hop 58g
+10014528 kẹo gum không đường hương dâu bạc hà xylitol hộp 58g
+1
+hộp
+20000 28400 28400 99
+0 0
+
+10014898 Kẹo trái cây Starmix gói 80g
+10014898 keo trai cay starmix goi 80g
+10014898 kẹo trái cây starmix gói 80g
+1
+gói
+14900 23100 23100 93
+0 0
+
+10406918 Kẹo dẻo Cola Chupa Chups gói 90g
+10406918 keo deo cola chupa chups goi 90g
+10406918 kẹo dẻo cola chupa chups gói 90g
+1
+gói
+14900 22600 21300 12
+0 0
+

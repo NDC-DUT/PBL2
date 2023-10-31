@@ -1,0 +1,80 @@
+10006458 Cá trứng SG Food khay 200g
+10006458 ca trung sg food khay 200g
+10006458 cá trứng sg food khay 200g
+1
+200g
+25000 40400 38900 123
+0 0
+
+10006499 Mực trứng đông lạnh Thaibifood loại A khay 450g
+10006499 muc trung dong lanh thaibifood loai a khay 450g
+10006499 mực trứng đông lạnh thaibifood loại a khay 450g
+1
+450g
+100000 122900 122900 21
+0 0
+
+10006505 Tôm thịt THABIFOOD size 8/12 khay 450g
+10006505 tom thit thabifood size 812 khay 450g
+10006505 tôm thịt thabifood size 812 khay 450g
+1
+khay
+190000 233600 233600 12
+0 0
+
+10006507 Tôm thịt THABIFOOD size 26/30 khay 450g
+10006507 tom thit thabifood size 2630 khay 450g
+10006507 tôm thịt thabifood size 2630 khay 450g
+1
+khay
+130000 172900 172900 120
+0 0
+
+10006508 Tôm thịt Thaibifood size 31/40 khay 450g
+10006508 tom thit thaibifood size 3140 khay 450g
+10006508 tôm thịt thaibifood size 3140 khay 450g
+1
+khay
+130000 155700 155700 11
+0 0
+
+10006511 Cá trứng Thaibifood khay 500g
+10006511 ca trung thaibifood khay 500g
+10006511 cá trứng thaibifood khay 500g
+1
+khay
+53000 86200 86200 100
+0 0
+
+10006519 Tôm thịt Home Food 16/20 450g
+10006519 tom thit home food 1620 450g
+10006519 tôm thịt home food 1620 450g
+1
+450g
+190000 226800 226800 1
+0 0
+
+10006522 Tôm thịt Home Food size 71/90 khay 450g
+10006522 tom thit home food size 7190 khay 450g
+10006522 tôm thịt home food size 7190 khay 450g
+1
+khay
+140000 162000 162000 100
+0 0
+
+10006527 Cá trứng Home Food 100% có trứng đông lạnh 500g
+10006527 ca trung home food 100 co trung dong lanh 500g
+10006527 cá trứng home food 100 có trứng đông lạnh 500g
+1
+500g
+66000 97000 97000 23
+0 0
+
+10006535 Cá trứng Đôi Đũa Vàng khay 400g
+10006535 ca trung doi dua vang khay 400g
+10006535 cá trứng đôi đũa vàng khay 400g
+1
+khay
+80000 116900 116900 1000
+0 0
+

@@ -1,0 +1,40 @@
+10010687 Nước uống sữa trái cây hương dâu Nutri Boost chai 1L
+10010687 nuoc uong sua trai cay huong dau nutri boost chai 1l
+10010687 nước uống sữa trái cây hương dâu nutri boost chai 1l
+1
+chai
+14000 27500 22900 19
+0 0
+
+10011178 Nước nho ép Vfresh Vinamilk hộp 1 lít
+10011178 nuoc nho ep vfresh vinamilk hop 1 lit
+10011178 nước nho ép vfresh vinamilk hộp 1 lít
+1
+hộp
+39000 51000 51000 20
+0 0
+
+10011242 Nước giải khát có gas 7 Up chai 1.5L
+10011242 nuoc giai khat co gas 7 up chai 15l
+10011242 nước giải khát có gas 7 up chai 15l
+1
+chai
+7000 19500 19500 30
+0 0
+
+10011276 Trà bí đao Wonderfarm lon 310ml
+10011276 tra bi dao wonderfarm lon 310ml
+10011276 trà bí đao wonderfarm lon 310ml
+1
+lon
+3000 7500 7500 31
+0 0
+
+10011455 Nước trái cây Ice+ vị nho xanh chai 490ml
+10011455 nuoc trai cay ice vi nho xanh chai 490ml
+10011455 nước trái cây ice vị nho xanh chai 490ml
+1
+chai
+3400 8000 8000 32
+0 0
+

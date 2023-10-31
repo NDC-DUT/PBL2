@@ -1,0 +1,90 @@
+10007761 Nui ống Barilla hộp 500g
+10007761 nui ong barilla hop 500g
+10007761 nui ống barilla hộp 500g
+1
+gói
+56000 76200 76200 290
+0 0
+
+10007764 Nui xoắn số 98 Barilla hộp 500g
+10007764 nui xoan so 98 barilla hop 500g
+10007764 nui xoắn số 98 barilla hộp 500g
+1
+gói
+56000 76200 76200 290
+0 0
+
+10007866 Nui ống Safoco gói 400g
+10007866 nui ong safoco goi 400g
+10007866 nui ống safoco gói 400g
+1
+gói
+19000 27500 27500 10
+0 0
+
+10007935 Miến ăn liền Phú Hương vị thịt bằm Acecook gói 58g
+10007935 mien an lien phu huong vi thit bam acecook goi 58g
+10007935 miến ăn liền phú hương vị thịt bằm acecook gói 58g
+1
+gói
+5500 10100 10100 29
+0 0
+
+10007936 Miến ăn liền Phú Hương vị sườn heo Acecook gói 58g
+10007936 mien an lien phu huong vi suon heo acecook goi 58g
+10007936 miến ăn liền phú hương vị sườn heo acecook gói 58g
+1
+gói
+5300 10100 10100 12
+0 0
+
+10007937 Miến ăn liền Phú Hương vị thịt heo nấu măng Acecook gói 57g
+10007937 mien an lien phu huong vi thit heo nau mang acecook goi 57g
+10007937 miến ăn liền phú hương vị thịt heo nấu măng acecook gói 57g
+1
+gói
+5200 10100 10100 129
+0 0
+
+10007947 Hủ tiếu Nam Vang Nhịp Sống gói 70g
+10007947 hu tieu nam vang nhip song goi 70g
+10007947 hủ tiếu nam vang nhịp sống gói 70g
+1
+gói
+3400 8000 8000 12
+0 0
+
+10007948 Hủ tiếu bò kho Nhịp Sống gói 70g
+10007948 hu tieu bo kho nhip song goi 70g
+10007948 hủ tiếu bò kho nhịp sống gói 70g
+1
+gói
+4300 8000 8000 235
+0 0
+
+10007951 Bánh đa cua ăn liền Vifon gói 60g
+10007951 banh da cua an lien vifon goi 60g
+10007951 bánh đa cua ăn liền vifon gói 60g
+2
+thùng
+177000 220000 220000 29
+gói
+3300 7500 6600 21
+0 0
+
+10007952 Bánh đa cua Hoàng Gia gói 120g
+10007952 banh da cua hoang gia goi 120g
+10007952 bánh đa cua hoàng gia gói 120g
+1
+gói
+15000 21300 18800 29
+0 0
+
+10007953 Bánh đa cua Vifon bát 125g
+10007953 banh da cua vifon bat 125g
+10007953 bánh đa cua vifon bát 125g
+1
+gói
+19000 26000 26000 12
+0 0
+

@@ -1,0 +1,64 @@
+10006029 Trứng gà tươi Dabaco hộp 10 quả 
+10006029 trung ga tuoi dabaco hop 10 qua 
+10006029 trứng gà tươi dabaco hộp 10 quả 
+1
+hộp
+20000 34500 34500 99
+0 0
+
+10006037 Trứng gà Omega 3 Dabaco hộp 10 quả 
+10006037 trung ga omega 3 dabaco hop 10 qua 
+10006037 trứng gà omega 3 dabaco hộp 10 quả 
+1
+hộp
+30000 57000 57000 24
+0 0
+
+10006067 Trứng gà quê Dabaco giỏ 10 quả 
+10006067 trung ga que dabaco gio 10 qua 
+10006067 trứng gà quê dabaco giỏ 10 quả 
+1
+giỏ
+29000 56500 56500 99
+0 0
+
+10006069 Trứng gà DHA Dabaco hộp 10 quả 
+10006069 trung ga dha dabaco hop 10 qua 
+10006069 trứng gà dha dabaco hộp 10 quả 
+1
+hộp
+30000 59400 59400 15
+0 0
+
+10195014 Trứng gà sạch O'LALA hộp 10 quả 
+10195014 trung ga sach olala hop 10 qua 
+10195014 trứng gà sạch olala hộp 10 quả 
+1
+hộp
+19000 29500 29500 24
+0 0
+
+10195874 Trứng gà sạch O'LALA hộp 10_SIZE L
+10195874 trung ga sach olala hop 10size l
+10195874 trứng gà sạch olala hộp 10size l
+1
+hộp
+15000 29500 29500 99
+0 0
+
+10195898 Trứng vịt sạch O'LALA hộp 6 quả 
+10195898 trung vit sach olala hop 6 qua 
+10195898 trứng vịt sạch olala hộp 6 quả 
+1
+hộp
+16000 29500 29500 999
+0 0
+
+10195899 Trứng cút sạch O'LALA hộp 30 
+10195899 trung cut sach olala hop 30 
+10195899 trứng cút sạch olala hộp 30 
+1
+hộp
+19000 34500 34500 20
+0 0
+

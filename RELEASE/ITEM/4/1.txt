@@ -1,0 +1,40 @@
+10005307 Xúc xích Roma Đức Việt gói 500g
+10005307 xuc xich roma duc viet goi 500g
+10005307 xúc xích roma đức việt gói 500g
+1
+gói
+43000 60300 60300 23
+0 0
+
+10005505 Xúc xích Ông già Ika Klobasa mini gói 250g
+10005505 xuc xich ong gia ika klobasa mini goi 250g
+10005505 xúc xích ông già ika klobasa mini gói 250g
+1
+gói
+59900 74600 74600 223
+0 0
+
+10005506 Xúc xích Klobasa Ông già Ika 250g
+10005506 xuc xich klobasa ong gia ika 250g
+10005506 xúc xích klobasa ông già ika 250g
+1
+gói
+52000 66300 66300 121
+0 0
+
+10005507 Xúc xích Klobasa Ông Già Ika gói 500g
+10005507 xuc xich klobasa ong gia ika goi 500g
+10005507 xúc xích klobasa ông già ika gói 500g
+1
+gói
+980000 129600 129600 10
+0 0
+
+10005512 Xúc xích Đức Việt nướng gói 500g
+10005512 xuc xich duc viet nuong goi 500g
+10005512 xúc xích đức việt nướng gói 500g
+1
+gói
+73500 92500 92500 23
+0 0
+

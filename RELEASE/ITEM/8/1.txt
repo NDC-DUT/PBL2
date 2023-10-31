@@ -1,0 +1,40 @@
+10008681 Nước chấm hương cá hồi Chin-su chai 500ml
+10008681 nuoc cham huong ca hoi chinsu chai 500ml
+10008681 nước chấm hương cá hồi chinsu chai 500ml
+1
+chai
+27000 45200 45200 45
+0 0
+
+10008991 Nước mắm cao cấp Ngư Nhi chai 150ml
+10008991 nuoc mam cao cap ngu nhi chai 150ml
+10008991 nước mắm cao cấp ngư nhi chai 150ml
+1
+chai
+40000 61000 61000 99
+0 0
+
+10009164 Nước mắm Nam Ngư chai 750ml
+10009164 nuoc mam nam ngu chai 750ml
+10009164 nước mắm nam ngư chai 750ml
+1
+chai
+29000 44600 44600 12
+0 0
+
+10009165 Nước chấm Nam Ngư Chin-su 3 trong 1 chai 900ml
+10009165 nuoc cham nam ngu chinsu 3 trong 1 chai 900ml
+10009165 nước chấm nam ngư chinsu 3 trong 1 chai 900ml
+1
+chai
+39000 52500 52500 22
+0 0
+
+10009174 Nước mắm pha tỏi ớt Thanh Hà chai 250ml
+10009174 nuoc mam pha toi ot thanh ha chai 250ml
+10009174 nước mắm pha tỏi ớt thanh hà chai 250ml
+1
+chai
+24000 38500 31900 23
+0 0
+

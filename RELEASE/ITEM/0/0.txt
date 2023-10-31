@@ -1,0 +1,88 @@
+10281591 Ba rọi đặc biệt Meat Deli Premium(S)
+10281591 ba roi dac biet meat deli premiums
+10281591 ba rọi đặc biệt meat deli premiums
+1
+500g
+60000 74165 74165 90
+0 0
+
+10281592 Sườn St.Louis MeatDeli Premium(S)
+10281592 suon stlouis meatdeli premiums
+10281592 sườn stlouis meatdeli premiums
+1
+500g
+75000 93203 93203 89
+0 0
+
+10281593 Sườn thăn Meat Deli Premium(S)
+10281593 suon than meat deli premiums
+10281593 sườn thăn meat deli premiums
+1
+500g
+70000 84665 84665 90
+0 0
+
+10281594 Bắp giò cuộn MeatDeli Premium(S)
+10281594 bap gio cuon meatdeli premiums
+10281594 bắp giò cuộn meatdeli premiums
+1
+500g
+65415 52465 52465 79
+0 0
+
+10617947 Thịt heo xay loại 1 Meat Deli (S) 
+10617947 thit heo xay loai 1 meat deli s 
+10617947 thịt heo xay loại 1 meat deli s 
+1
+1KG
+30000 38465 38465 20
+0 0
+
+10617950 Chân giò heo rút xương Meat Deli(S)
+10617950 chan gio heo rut xuong meat delis
+10617950 chân giò heo rút xương meat delis
+1
+500g
+40000 51065 51065 69
+0 0
+
+10617957 Nạc dăm heo (nạc vai) Meat Deli S 
+10617957 nac dam heo nac vai meat deli s 
+10617957 nạc dăm heo nạc vai meat deli s 
+1
+500g
+48570 38970 38970 56
+0 0
+
+10617959 Ba rọi heo(S) Meat Deli
+10617959 ba roi heos meat deli
+10617959 ba rọi heos meat deli
+1
+500g
+40000 56665 56665 90
+0 0
+
+10617963 Thịt heo xay đặc biệt Meat Deli (S) 
+10617963 thit heo xay dac biet meat deli s 
+10617963 thịt heo xay đặc biệt meat deli s 
+1
+500g
+40000 56315 56315 23
+0 0
+
+10618635 Xương cục heo Meat Deli (S)
+10618635 xuong cuc heo meat deli s
+10618635 xương cục heo meat deli s
+1
+1KG
+20000 27960 27960 24
+0 0
+
+10620356 Gà ta nguyên con 3F
+10620356 ga ta nguyen con 3f
+10620356 gà ta nguyên con 3f
+1
+con
+130000 155880 155880 37
+0 0
+

@@ -1,0 +1,40 @@
+10020128 Băng vệ sinh Kotex hàng ngày hương tự nhiên 20 miếng
+10020128 bang ve sinh kotex hang ngay huong tu nhien 20 mieng
+10020128 băng vệ sinh kotex hàng ngày hương tự nhiên 20 miếng
+1
+gói
+9500 16500 16500 300
+0 0
+
+10020129 Băng vệ sinh Kotex hàng ngày hương tự nhiên 40 miếng
+10020129 bang ve sinh kotex hang ngay huong tu nhien 40 mieng
+10020129 băng vệ sinh kotex hàng ngày hương tự nhiên 40 miếng
+1
+gói
+15000 29500 29500 133
+0 0
+
+10020131 Băng vệ sinh Kotex Style siêu mỏng cánh 8 miếng
+10020131 bang ve sinh kotex style sieu mong canh 8 mieng
+10020131 băng vệ sinh kotex style siêu mỏng cánh 8 miếng
+1
+gói
+13500 20900 20900 155
+0 0
+
+10020132 Băng vệ sinh Kotex Style siêu mỏng không cánh 8 miếng
+10020132 bang ve sinh kotex style sieu mong khong canh 8 mieng
+10020132 băng vệ sinh kotex style siêu mỏng không cánh 8 miếng
+1
+gói
+8000 19900 19000 33
+0 0
+
+10020133 Băng vệ sinh Kotex Style ban đêm có cánh 4 miếng
+10020133 bang ve sinh kotex style ban dem co canh 4 mieng
+10020133 băng vệ sinh kotex style ban đêm có cánh 4 miếng
+1
+gói
+9300 16900 14500 11
+0 0
+

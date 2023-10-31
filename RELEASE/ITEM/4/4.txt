@@ -1,0 +1,80 @@
+10007409 Lạp xưởng tôm Vissan gói 500g
+10007409 lap xuong tom vissan goi 500g
+10007409 lạp xưởng tôm vissan gói 500g
+1
+gói
+125000 155800 155800 20
+0 0
+
+10054133 Măng muối ớt muối dổ Kim bôi lọ 750g
+10054133 mang muoi ot muoi do kim boi lo 750g
+10054133 măng muối ớt muối dổ kim bôi lọ 750g
+1
+lọ
+22000 34400 34400 201
+0 0
+
+10140145 Chè lam gấc hộp 300g
+10140145 che lam gac hop 300g
+10140145 chè lam gấc hộp 300g
+1
+hộp
+30000 54000 54000 20
+0 0
+
+10140391 Thịt heo sấy kiểu Tây Bắc vị BBQ Feddy gói 25g
+10140391 thit heo say kieu tay bac vi bbq feddy goi 25g
+10140391 thịt heo sấy kiểu tây bắc vị bbq feddy gói 25g
+1
+gói
+9000 16000 16000 23
+0 0
+
+10141686 Chà bông heo sạch Ponnie hộp 100g
+10141686 cha bong heo sach ponnie hop 100g
+10141686 chà bông heo sạch ponnie hộp 100g
+1
+gói
+45700 60100 60100 20
+0 0
+
+10141688 Chà bông keo sạch Ponnie gói 100g
+10141688 cha bong keo sach ponnie goi 100g
+10141688 chà bông keo sạch ponnie gói 100g
+1
+gói
+33900 53500 53500 21
+0 0
+
+10281240 Khô heo vị cháy tỏi Feddy G gói 25g
+10281240 kho heo vi chay toi feddy g goi 25g
+10281240 khô heo vị cháy tỏi feddy g gói 25g
+1
+gói
+10500 16500 16500 22
+0 0
+
+10315701 Thạch an Cao Bằng hộp 950g
+10315701 thach an cao bang hop 950g
+10315701 thạch an cao bằng hộp 950g
+1
+hộp
+37000 55000 55000 0
+0 0
+
+10317069 Cá mòi kho làng Chài Sovifood hộp 350g
+10317069 ca moi kho lang chai sovifood hop 350g
+10317069 cá mòi kho làng chài sovifood hộp 350g
+1
+hộp
+49000 65000 65000 12
+0 0
+
+10281242 Da cá vị trứng muối Feddy gói 50g
+10281242 da ca vi trung muoi feddy goi 50g
+10281242 da cá vị trứng muối feddy gói 50g
+1
+gói
+23000 35000 35000 20
+0 0
+

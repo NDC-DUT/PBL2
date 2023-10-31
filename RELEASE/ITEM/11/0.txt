@@ -1,0 +1,40 @@
+10012917 Café Highlands xay sành điệu gói 200g
+10012917 cafe highlands xay sanh dieu goi 200g
+10012917 café highlands xay sành điệu gói 200g
+1
+gói
+40000 65000 65000 34
+0 0
+
+10012920 Cà phê sữa đá Highlands Coffee lon 235ml
+10012920 ca phe sua da highlands coffee lon 235ml
+10012920 cà phê sữa đá highlands coffee lon 235ml
+1
+lon
+9900 13600 13600 34
+0 0
+
+10150467 Cà phê hòa tan Nescafé Cappuccino vị dừa 200g
+10150467 ca phe hoa tan nescafe cappuccino vi dua 200g
+10150467 cà phê hòa tan nescafé cappuccino vị dừa 200g
+1
+hộp
+40000 64800 64800 34
+0 0
+
+10150750 Cà phê Gold Blend Nestle lọ 100g
+10150750 ca phe gold blend nestle lo 100g
+10150750 cà phê gold blend nestle lọ 100g
+1
+lọ
+101100 140000 140000 34
+0 0
+
+10194871 Cà phê Nescafé sữa đá 200ml
+10194871 ca phe nescafe sua da 200ml
+10194871 cà phê nescafé sữa đá 200ml
+1
+hộp
+7900 11300 11300 35
+0 0
+

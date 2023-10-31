@@ -1,0 +1,80 @@
+10008621 Bột canh i-ốt Hải Châu gói 190g
+10008621 bot canh iot hai chau goi 190g
+10008621 bột canh iốt hải châu gói 190g
+1
+gói
+2500 4800 4800 99
+0 0
+
+10008663 Bột canh Vifon gói 200g
+10008663 bot canh vifon goi 200g
+10008663 bột canh vifon gói 200g
+1
+gói
+3000 5500 5500 23
+0 0
+
+10008782 Hạt nêm thịt thăn, xương ống, tủy Knorr 900g
+10008782 hat nem thit than xuong ong tuy knorr 900g
+10008782 hạt nêm thịt thăn xương ống tủy knorr 900g
+1
+gói
+60900 84500 84500 34
+0 0
+
+10009041 Hạt nêm Aji-ngon gói 400g
+10009041 hat nem ajingon goi 400g
+10009041 hạt nêm ajingon gói 400g
+1
+gói
+23000 31500 31600 99
+0 0
+
+10009052 Hạt nêm cao cấp vị nấm hương Maggi gói 450g
+10009052 hat nem cao cap vi nam huong maggi goi 450g
+10009052 hạt nêm cao cấp vị nấm hương maggi gói 450g
+1
+gói
+39000 47000 47000 20
+0 0
+
+10009077 Hạt nêm thịt xương ống KNORR gói 1,2kg
+10009077 hat nem thit xuong ong knorr goi 12kg
+10009077 hạt nêm thịt xương ống knorr gói 12kg
+1
+gói
+98000 104800 104800 92
+0 0
+
+10009185 Hạt nêm Knorr bổ sung vitamin A 400g
+10009185 hat nem knorr bo sung vitamin a 400g
+10009185 hạt nêm knorr bổ sung vitamin a 400g
+1
+gói
+29000 38300 38300 23
+0 0
+
+10009213 Hạt nêm Aji-ngon Ajinomoto gói 900g
+10009213 hat nem ajingon ajinomoto goi 900g
+10009213 hạt nêm ajingon ajinomoto gói 900g
+1
+gói
+50000 68800 68800 34
+0 0
+
+10009303 Hạt nêm nấm hương Maggi gói 200g
+10009303 hat nem nam huong maggi goi 200g
+10009303 hạt nêm nấm hương maggi gói 200g
+1
+gói
+19000 23400 23400 100
+0 0
+
+10141401 Bột Canh 14% Vifon gói 900g
+10141401 bot canh 14 vifon goi 900g
+10141401 bột canh 14 vifon gói 900g
+1
+gói
+15000 21000 21000 23
+0 0
+

@@ -1,0 +1,80 @@
+10009730 Gạo Bắc Hương Hải Hậu Bảo Minh túi 5kg
+10009730 gao bac huong hai hau bao minh tui 5kg
+10009730 gạo bắc hương hải hậu bảo minh túi 5kg
+1
+gói
+78500 106000 106000 290
+0 0
+
+10009734 Gạo giống Nhật Bảo Minh túi 5kg
+10009734 gao giong nhat bao minh tui 5kg
+10009734 gạo giống nhật bảo minh túi 5kg
+1
+gói
+140000 167800 167800 245
+0 0
+
+10010296 Nấm hương Việt San gói 80g
+10010296 nam huong viet san goi 80g
+10010296 nấm hương việt san gói 80g
+1
+gói
+30500 41500 41500 239
+0 0
+
+10056647 Đậu xanh cà Việt San gói 150g
+10056647 dau xanh ca viet san goi 150g
+10056647 đậu xanh cà việt san gói 150g
+1
+gói
+7000 10400 10400 21
+0 0
+
+10086842 Gạo tám Gò Công Vinafood1 túi 3kg
+10086842 gao tam go cong vinafood1 tui 3kg
+10086842 gạo tám gò công vinafood1 túi 3kg
+1
+gói
+98700 117000 117000 233
+0 0
+
+10140936 Gạo Japonica Neptune bịch 5kg
+10140936 gao japonica neptune bich 5kg
+10140936 gạo japonica neptune bịch 5kg
+1
+gói
+99500 137600 119200 2122
+0 0
+
+10141040 Gạo ST25 Giống Cây Trồng TW túi 3kg
+10141040 gao st25 giong cay trong tw tui 3kg
+10141040 gạo st25 giống cây trồng tw túi 3kg
+1
+gói
+78500 119900 89900 122
+0 0
+
+10141475 Gạo Lứt Nâu Organic Cỏ May hộp 1kg
+10141475 gao lut nau organic co may hop 1kg
+10141475 gạo lứt nâu organic cỏ may hộp 1kg
+1
+hộp
+43500 60900 60900 211
+0 0
+
+10141476 Gạo lứt đỏ Cỏ May 2,5kg
+10141476 gao lut do co may 25kg
+10141476 gạo lứt đỏ cỏ may 25kg
+1
+gói
+91700 126000 126000 213
+0 0
+
+10141512 Gạo ST25 Ngọc Nương túi 5Kg
+10141512 gao st25 ngoc nuong tui 5kg
+10141512 gạo st25 ngọc nương túi 5kg
+1
+gói
+147000 179500 179500 29
+0 0
+
